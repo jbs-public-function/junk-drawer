@@ -1,0 +1,6 @@
+pandas
+metaflow
+docker
+matplotlib
+ipykernel
+jupyter
